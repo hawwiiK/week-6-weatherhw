@@ -5,9 +5,8 @@ form {
 }
 h1 {
   margin: 0;
-  padding 0;
   color: rgb(10, 10, 88);
-  font-size:40px ;
+  font-size: 40px;
   padding-top: 0px;
   text-align: center;
 }
@@ -51,4 +50,11 @@ div {
   color: rgb(0, 153, 255);
   margin: auto;
 }
-
+small {
+  font-size: 80%;
+  font-weight: 400%;
+  display: block;
+  margin: 0% auto;
+  text-align: center;
+  padding: 10px;
+}
